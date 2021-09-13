@@ -107,3 +107,4 @@ REFERENCES [dbo].[Pilotos] ([IdPiloto])
 GO
 ALTER TABLE [dbo].[PilotosNaves] CHECK CONSTRAINT [FK_PilotosNaves_Pilotos]
 GO
+
